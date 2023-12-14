@@ -28,7 +28,7 @@ The primary objective was to analyze the variability in the latency of Starlink'
 1. **Clone the Repository:** Download the project files from the GitHub repository.
 
    ```bash
-   git clone git@github.com:hgreenstein/Starlink-Latency-Analysis.git
+   git clone https://github.com/hgreenstein/Starlink-Latency-Analysis.git
    ```
 2. **Install Dependencies:** Ensure Python 3.x is installed, and install the required Python libraries.
    
